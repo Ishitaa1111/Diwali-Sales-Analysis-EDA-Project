@@ -4,15 +4,14 @@
 
 
 ## 📌 Table of Contents  
-
-1️⃣ [Project Overview](#1-project-overview)  
-2️⃣ [Business Problem / Objective](#2-business-problem--objective)  
-3️⃣ [Dataset Description](#3-dataset-description)  
-4️⃣ [Tools & Skills Used](#4-tools--skills-used)  
-5️⃣ [Approach / Methodology](#5-approach--methodology)  
-6️⃣ [Key Insights / Results](#6-key-insights--results)  
-7️⃣ [Dashboard / Output Screenshots](#7-dashboard--output-screenshots)  
-8️⃣ [Conclusion & Future Work](#8-conclusion--future-work)  
+1. [Project Overview](#1-project-overview)  
+2. [Business Problem / Objective](#2-business-problem--objective)  
+3. [Dataset Description](#3-dataset-description)  
+4. [Tools & Skills Used](#4-tools--skills-used)  
+5. [Approach / Methodology](#5-approach--methodology)  
+6. [Key Insights / Results](#6-key-insights--results)  
+7. [Dashboard / Output Screenshots](#7-dashboard--output-screenshots)  
+8. [Conclusion & Future Work](#8-conclusion--future-work)  
 
 
 
@@ -138,5 +137,17 @@ The analysis focuses on enhancing sales performance and customer engagement by:
 <img width="1200" height="600" alt="Code_Generated_Image (6)" src="https://github.com/user-attachments/assets/61039821-23d1-48e9-90e0-42cc821cc52b" />
 <img width="1000" height="500" alt="Code_Generated_Image (7)" src="https://github.com/user-attachments/assets/026e0c53-5baa-4b0e-bac2-998ec3e3f2dd" />
 
+## 8️. Conclusion & Future Work  
+
+**Conclusion:**  
+* The analysis highlights that the **primary customer segment** during Diwali sales is **married women aged 26–35**, mainly from **Uttar Pradesh, Maharashtra, and Karnataka**.  
+* The most purchased categories are **Food, Clothing & Apparel, and Electronics**, making them key drivers of festive revenue.  
+* These insights enable **targeted marketing campaigns, optimized inventory stocking, and tailored promotions** to maximize customer engagement and sales performance.  
+
+**Future Work:**  
+* **Customer Segmentation** → Apply clustering to create detailed customer personas for highly personalized marketing.  
+* **Product Recommendation Engine** → Suggest complementary products based on purchase history to increase average order value.  
+* **Sentiment Analysis** → Analyze customer reviews and feedback for deeper insights into preferences and pain points.  
+* **Time Series Forecasting** → Predict seasonal trends and sales demand for future Diwali campaigns to ensure proactive business planning.  
 
 
