@@ -15,10 +15,10 @@
 
 
 
-
 ## 1. Project Overview
-This project provides an in-depth analysis of **Diwali Sales Data** (11,239 transactions), uncovering key customer patterns, product preferences, and demographics. The goal is to enable **data-driven decisions** for marketing, inventory, and sales strategy, identifying **most valuable customers and top-performing products**.
-
+This project delivers a comprehensive **Exploratory Data Analysis (EDA)** on Diwali Sales Data, consisting of **11,239 customer transactions across 12 attributes**.  
+The analysis focuses on uncovering **customer demographics, purchasing behavior, product preferences, and regional trends**, enabling businesses to make **data-driven marketing, sales, and inventory decisions**. By leveraging **Python, Pandas, NumPy, and Matplotlib**, the study identifies the most valuable customer segments, high-performing states, and top product categories.  
+The insights derived are directly applicable to **targeted marketing strategies, revenue optimization, customer segmentation, and campaign planning**, making it highly relevant for **business analysts, data analysts, and decision-makers**.  
 
 
 ## 2. Business Problem / Objective
