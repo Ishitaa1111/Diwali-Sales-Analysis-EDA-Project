@@ -123,7 +123,7 @@ The analysis focuses on enhancing sales performance and customer engagement by:
 
 
 
-## 7. Dashboard / Output Screenshot
+## 7. Dashboard / Output Screenshots
 
 
 
