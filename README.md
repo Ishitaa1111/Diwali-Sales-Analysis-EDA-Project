@@ -54,25 +54,42 @@ The analysis focuses on enhancing sales performance and customer engagement by:
 
 
 ## 4. Tools & Skills Used
-**Programming Language:** Python  
+ 
+### Programming Language  
+- **Python**  
 
-**Libraries:** Pandas, NumPy, Matplotlib
+### Libraries  
+- **Pandas** → For data manipulation, cleaning, and analysis  
+- **NumPy** → For numerical operations  
+- **Matplotlib → For creating a wide range of static, animated, and interactive visualizations  
 
-**Skills:**  
-* Data Cleaning & Preprocessing  
-* Exploratory Data Analysis (EDA)  
-* Data Visualization (static & interactive charts)  
-* Business Analysis & Insight Generation
+###  Skills  
+- **Data Cleaning and Preprocessing** → Handling missing values, and correcting data types  
+- **Exploratory Data Analysis (EDA)** → Using descriptive statistics and visualizations to understand the data  
+- **Data Visualization** → Creating informative and visually appealing charts and graphs to communicate findings effectively  
 
 
 
 
 ## 5. Approach & Methodology
-1. **Data Loading & Inspection:** Loaded "Diwali Sales Data.csv" → checked structure & missing values.  
-2. **Data Cleaning:** Removed unnecessary columns, handled missing values, converted 'Amount' to integer.  
-3. **Exploratory Data Analysis:** Grouped & aggregated data to find trends in demographics, products, and sales.  
-4. **Data Visualization:** Created plots using Matplotlib to highlight patterns for decision-making.  
+The analysis followed a **structured methodology** to ensure accurate and actionable insights:  
 
+###  Data Loading & Initial Inspection  
+- The **"Diwali Sales Data.csv"** file was loaded into a Pandas DataFrame.  
+- An initial inspection was performed to understand the structure, data types, and presence of missing values.  
+
+###  Data Cleaning  
+- Unnecessary columns (**'Status'**, **'unnamed1'**) were removed.  
+- Rows with missing values were dropped to ensure data quality.  
+- The **'Amount'** column was converted to an integer data type for numerical analysis.  
+
+###  Exploratory Data Analysis (EDA)  
+- A comprehensive **EDA** was conducted to explore relationships between variables.  
+- Grouping and aggregation were performed to analyze sales patterns across demographics and product categories.  
+
+###  Data Visualization  
+- Visualizations were created using **Matplotlib** and **Seaborn**.  
+- These plots provide a clear and concise representation of the key insights discovered during EDA.  
 
 
 ## 6. Key Insights / Results
