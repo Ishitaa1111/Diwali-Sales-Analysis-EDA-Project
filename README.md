@@ -1,17 +1,19 @@
 
-#  Diwali Sales Data Analysis
+#  Diwali Sales Data - Exploratory Data Analysis
 
 
 
-## 📌 Table of Contents
-1. [Project Overview](#1-project-overview)  
-2. [Business Problem / Objective](#2-business-problem--objective)  
-3. [Dataset Description](#3-dataset-description)  
-4. [Tools & Skills Used](#4-tools--skills-used)  
-5. [Approach / Methodology](#5-approach--methodology)  
-6. [Key Insights / Results](#6-key-insights--results)  
-7. [Dashboard / Output Screenshots](#7-dashboard--output-screenshots)  
-8. [Conclusion & Future Work](#8-conclusion--future-work)  
+## 📌 Table of Contents  
+
+1️⃣ [Project Overview](#1-project-overview)  
+2️⃣ [Business Problem / Objective](#2-business-problem--objective)  
+3️⃣ [Dataset Description](#3-dataset-description)  
+4️⃣ [Tools & Skills Used](#4-tools--skills-used)  
+5️⃣ [Approach / Methodology](#5-approach--methodology)  
+6️⃣ [Key Insights / Results](#6-key-insights--results)  
+7️⃣ [Dashboard / Output Screenshots](#7-dashboard--output-screenshots)  
+8️⃣ [Conclusion & Future Work](#8-conclusion--future-work)  
+
 
 
 
@@ -82,28 +84,28 @@ The analysis focuses on enhancing sales performance and customer engagement by:
 - **Revenue:**  
   - Females → `$74,335,853`  
   - Males → `$31,913,276`  
-➡️ *Women are 2.3× more valuable → female-focused marketing recommended*  
+ *Women are 2.3× more valuable → female-focused marketing recommended*  
 
 
 
 ###  Age Group  
 - **26–35 years = highest buyers + sales contribution**  
-➡️ *Prime target segment for festive promotions*  
+ *Prime target segment for festive promotions*  
 
 
 
 ###  Marital Status  
 - Married → `$62,125,384`  
 - Unmarried → `$44,123,745`  
-➡️ *Married customers dominate spending patterns*  
+   *Married customers dominate spending patterns*  
 
 
 
 ### Top States by Sales  
-🏆 Uttar Pradesh  
-🥈 Maharashtra  
-🥉 Karnataka  
-➡️ *Focus sales & campaigns in these high-value regions*  
+1. Uttar Pradesh  
+2. Maharashtra  
+3. Karnataka  
+ *Focus sales & campaigns in these high-value regions*  
 
 
 
@@ -112,13 +114,13 @@ The analysis focuses on enhancing sales performance and customer engagement by:
 1. IT Sector  
 2. Healthcare  
 3. Aviation  
-➡️ *These sectors = high disposable income groups*  
+    *These sectors = high disposable income groups*  
 
 
 
 ### Product Categories  
 - Food, Clothing & Apparel, Electronics & Gadgets dominate sales  
-➡️ *Prioritize these for promotions & stock planning*  
+ *Prioritize these for promotions & stock planning*  
 
 
 
